@@ -4,13 +4,6 @@ A responsive and visually appealing **Amazon-inspired landing page** built using
 
 ---
 
-## 🌐 Live Demo
-
-[Click here to view live](#) <!-- Replace with your GitHub Pages link or Netlify/Vercel link if deployed -->
-
----
-
-
 ## 🚀 Features
 
 - ✅ Sticky Navigation Bar with hover and animation
